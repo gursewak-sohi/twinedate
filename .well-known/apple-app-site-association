@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7KF4K6G38V.com.twinedating.bundle",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": ["7KF4K6G38V.com.twinedating.bundle"]
+  },
+  "webcredentials": {
+    "apps": ["7KF4K6G38V.com.twinedating.bundle"]
+  }
+}
